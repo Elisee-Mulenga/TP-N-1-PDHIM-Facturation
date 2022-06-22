@@ -8,7 +8,11 @@ import java.util.Scanner;
 /**
   MULENGA MULAPU Elisée GL
   MBOKUMA LOMBA Fabien Gl 
-  
+  SANGWA MAYOMBA Fabrice GL
+  NDJIBU KITENGE Vasthy MSI
+  MPOYO KABEYA Cynthia MSI
+  MBOMBO KATEMBWE Urcilla GL
+  TSHIPAMBA BULAMBA Michael MSI
  */
 
 
